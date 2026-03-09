@@ -230,4 +230,4 @@ MIT
 
 ---
 
-*Made by Rishit Girdhar – [github.com/rishit2904/DriveMind](https://github.com/rishit2904/DriveMind)*
+*Made by Rishit – [github.com/rishit2904/DriveMind](https://github.com/rishit2904/DriveMind)*
